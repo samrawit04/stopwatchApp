@@ -12,3 +12,4 @@ C:\Users\Samri\My Collection\projects\dotnet practice\StopwatchApp\obj\Debug\net
 C:\Users\Samri\My Collection\projects\dotnet practice\StopwatchApp\obj\Debug\net9.0\StopwatchApp.pdb
 C:\Users\Samri\My Collection\projects\dotnet practice\StopwatchApp\obj\Debug\net9.0\StopwatchApp.genruntimeconfig.cache
 C:\Users\Samri\My Collection\projects\dotnet practice\StopwatchApp\obj\Debug\net9.0\ref\StopwatchApp.dll
+C:\Users\Samri\My Collection\projects\dotnet practice\StopwatchApp\obj\Debug\net9.0\StopwatchApp.sourcelink.json

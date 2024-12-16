@@ -1,7 +1,11 @@
-﻿using System;
+﻿// Elective Assignment 
+// NAME: samrawit Amare 
+// ID: UGR/7185/14
+
+using System;
 using System.Threading;
 
-// Delegate for stopwatch events
+
 public delegate void StopwatchEventHandler(string message);
 
 // Stopwatch class
